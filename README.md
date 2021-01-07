@@ -5,6 +5,9 @@ This is a simple inmplementation of a deterministic turing machine.
 + For the course theory of languages and automata.
 + Written in C++ lang.
 
+Slides are available in slideshare:<br>
+https://www2.slideshare.net/SinaRostami7/turing-machine-implementation
+
 ## Build, Run
 
 for building your TM,see the `pdf` file to know the way to parse your TM in the `main.cc` file.<br>
