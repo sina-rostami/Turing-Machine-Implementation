@@ -22,4 +22,8 @@ to clean executable files in the main repo. directory run command below:<br>
 make clean
 ```
 
+### Example
 
+The example exists in the `main.cc` file is the parse of the TM which accepts strings in `L` so that:
+
+<img src="https://latex.codecogs.com/svg.latex?L&space;=&space;\{w&space;|&space;w&space;\in{0^{n}1^{n}},&space;n&space;\ge{0}\}" title="equ" />
